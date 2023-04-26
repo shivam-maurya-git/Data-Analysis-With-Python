@@ -23,6 +23,6 @@ Description about columns in order its appear :
 21. compression-ratio: ratio of the volume of the cylinder and its head space
 22. Horsepower :  a unit of measurement of power, or the rate at which work is done, usually in reference to the output of engines or motors.
 23. peak-rpm : revolutions per minute.
-24. City-mpg
-25.Highway -mpg
+24. City-mpg : Miles per gallon in city traffic
+25.Highway -mpg: Miles per gallon on highway(light traffic)
 26. Price: In dollars
