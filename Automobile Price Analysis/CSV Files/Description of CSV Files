@@ -1,0 +1,28 @@
+File name : auto.csv
+Description about columns in order its appear :
+1. symboling : risk factor associated with automobile (+3 to -3)
+2. Normalized losses : Normal losses are losses whcih is inherited like getting damaged while loading. It is relative average loss payment per insured vehicle year. (65 to 256)
+3. Make : Car manufacturer
+4. Fuel-type : Gas or diesel
+5. Aspiration : Type of aspirated engine (Turbocharged or supercharged)
+6. num of doors: Number of doors
+7. Body-style : Body-style of car (Convertibles - open air, Hatchback : 5 doors car, Sedan : 4 door)
+8. Drive wheels: rwd(rear wheel drive), fwd(forward wheel drive), 4wd (4 Wheel Drive)
+9. Engine location : front, rear
+10. Wheel base : the distance between the front and rear axles of a vehicle
+11. length : in meters
+12. width : in meters
+13. height: in meters
+14. Curb-weight: the weight of a car without occupants or baggage.
+15. Engine-type : ohc,ohcf,ohcv,dohc,rotor,dohcv,l
+16. num of cylinders: six, fours
+17. engine -size: measure of the cumulative space inside a motor’s cylinders. (in cc : cubic centimeter)
+18. Fuel-system : mfpi,2bbl,idi, 1bbl, spdi, 4bbl, mfi, spfi
+19. Bore : Diameter of each cylinder (in cm)
+20. Stroke:  ratio of mass of air/charge admitted to the engine cylinder
+21. compression-ratio: ratio of the volume of the cylinder and its head space
+22. Horsepower :  a unit of measurement of power, or the rate at which work is done, usually in reference to the output of engines or motors.
+23. peak-rpm : revolutions per minute.
+24. City-mpg
+25.Highway -mpg
+26. Price: In dollars
